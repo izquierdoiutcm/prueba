@@ -8,3 +8,6 @@ prueba6
 prueba7
 prueba8
 prueba9
+prueba10
+prueba11
+prueba12
